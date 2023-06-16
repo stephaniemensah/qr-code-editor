@@ -90,6 +90,7 @@ select option {
   padding: 0.8em 2em;
   border-radius: 0.5em;
   margin-top: 2em;
+  cursor: pointer;
 }
 .box button:disabled {
   background-color: transparent;
