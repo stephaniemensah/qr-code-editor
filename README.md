@@ -41,6 +41,6 @@ When contributing, please ensure that you follow the existing coding style, add 
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding the QR Code Editor project, please feel free to contact us at [mennstephannie@gmail.com]
+If you have any questions, suggestions, or feedback regarding the QR Code Editor project, please feel free to contact us at mennstephannie@gmail.com
 
 Enjoy generating and customizing your QR codes!
